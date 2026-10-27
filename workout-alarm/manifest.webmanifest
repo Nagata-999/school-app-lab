@@ -1,0 +1,19 @@
+{
+  "id": "/school-app-lab/workout-alarm/",
+  "name": "MOVE TO WAKE — 運動で止める目覚まし",
+  "short_name": "MOVE TO WAKE",
+  "description": "スクワットや腕立て伏せで止める習慣化目覚まし",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101a2a",
+  "theme_color": "#101a2a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
